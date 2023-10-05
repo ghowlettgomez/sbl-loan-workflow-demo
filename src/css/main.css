@@ -1,0 +1,11 @@
+@import "normalize.css";
+@import "didot-font.css";
+@import "typography.css";
+@import "buttons.css";
+
+* { box-sizing: border-box; }
+
+.container-full {
+  width: 100%;
+  padding: 0 1rem;
+}

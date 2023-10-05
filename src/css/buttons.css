@@ -1,0 +1,19 @@
+.button,
+button {
+  background: #fff;
+  padding: .5rem 1rem;
+  border-radius: .5rem;
+  color: #041c33;
+}
+
+.button:hover,
+button:hover {
+  cursor: pointer;
+}
+
+button.outline,
+.button.outline {
+  background: transparent;
+  border: 1px solid #3598f1;
+  color: #3598f1;
+}

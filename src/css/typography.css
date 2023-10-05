@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/proxima-nova/Proxima Nova Regular.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'Proxima Nova Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/proxima-nova/Proxima Nova Light.otf') format('otf');
+}
+
+html {
+  font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}

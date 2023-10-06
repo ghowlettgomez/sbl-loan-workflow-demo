@@ -27,6 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-
-### bucket_cors.json
-Bucket_cors.json is the file that we use to allow for cors in the google cloud bucket that we use to host the excels: https://console.cloud.google.com/storage/browser/sbl_demo_test;tab=objects?forceOnBucketsSortingFiltering=true&project=enodo-galaxy&prefix=&forceOnObjectsSortingFiltering=false.
